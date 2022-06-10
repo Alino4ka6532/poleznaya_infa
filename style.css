@@ -1,0 +1,11 @@
+body {
+    font-family: sans-serif;
+}
+.link-text {
+    color: blue;
+    text-decoration: none;
+}
+.link-header {
+    color: purple;
+    text-decoration: none;
+}
